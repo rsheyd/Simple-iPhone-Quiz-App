@@ -1,0 +1,1 @@
+This is a simple quiz app for iOS, coded in Swift 3/Xcode 8.
